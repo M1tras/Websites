@@ -1,0 +1,18 @@
+body {
+    background-color: gray;
+}
+
+#navbartitle {
+    background: darkred;
+    text-align: center;
+    font-size: 128px;
+    color: white;
+    text-shadow: 5px 5px 10px black;
+}
+.info-box-1 a {
+    color: white;
+    display: block;
+    padding: 20px;
+    background-color: black;
+    text-align: center;
+}
